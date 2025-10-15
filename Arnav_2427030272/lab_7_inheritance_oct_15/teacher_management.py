@@ -1,4 +1,5 @@
 """
+3.
 a school has a person, teacher and a class_teacher. 
 Each level has its own property and method.
 Make a school management system
@@ -34,4 +35,5 @@ print()
 obj1.print_person()
 print()
 obj2 = teacher("aryan", 40, ["G"])
+
 obj2.print_teacher()
